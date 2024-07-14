@@ -1,0 +1,19 @@
+#sidebar ul{
+    width: 250px;
+    height: 100vh;
+}
+
+#sidebar{
+    float: left;
+    background-color: rgb(37, 53, 53);
+}
+#sidebr ul li{
+    padding: 20px;
+    list-style-type: none;
+
+
+}
+#sidebar ul li a{
+    color: whitesmoke;
+    text-decoration: none;
+}
